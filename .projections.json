@@ -1,0 +1,6 @@
+{
+  "src/clj/*.clj*": {"command": "src"},
+  "resources/public/css/*.css": {"command": "css"},
+  "resources/public/js/*.js": {"command": "js"},
+  "project.clj": {"command": "project"}
+}
